@@ -2,6 +2,4 @@
 
 Algorithm storage in Baekjoon
 
-'''
-https://solved.ac/
-'''
+<pre><code>https://solved.ac/</code></pre>
