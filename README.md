@@ -1,5 +1,5 @@
 # Algorithm
 
-Algorithm storage in Baekjoon
+Algorithm Solution Storage
 
 <pre><code>https://solved.ac/</code></pre>
